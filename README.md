@@ -39,4 +39,4 @@ Scopul acestei lucrări de laborator este de a învăța să configurăm integra
 
 ## Concluzii
 
-Prin realizarea acestei lucrări de laborator, am învățat cum să configurăm integrarea continuă cu ajutorul GitHub Actions pentru un proiect bazat pe PHP. Am înțeles importanța testelor automate într-un proces de dezvoltare și am dobândit abilități în implementarea și rularea acestora într-un mediu de integrare continuă. Acest lucru ne permite să avem încredere în calitatea codului nostru și să automatizăm procesul de testare, contribuind la eficiența și fiabilitatea proiectului nostru.
+Prin realizarea acestei lucrări de laborator, am învățat cum să configurăm integrarea continuă cu ajutorul GitHub Actions pentru un proiect bazat pe PHP. Am înțeles importanța testelor automate într-un proces de dezvoltare și am dobândit abilități în implementarea și rularea acestora într-un mediu de integrare continuă. Acest lucru ne permite să avem încredere în calitatea codului nostru și să automatizăm procesul de testare, contribuind la eficiența și fiabilitatea proiectului nostru. ‎ ‎ ‎ ‎ ‎ ‎ 
